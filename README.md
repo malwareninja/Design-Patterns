@@ -5,6 +5,9 @@ You will get:
 1. State Design Pattern (Java Code + Class Diagram)  
 2. Strategy Design Pattern (Java Code + Class Diagram)  
 
+<h3>Requirements</h3>  
+1. Eclipse  
+
 For more stuff & Help:-  
 *******************************************  
 * Github  :- https://github.com/suraj2334 *  
