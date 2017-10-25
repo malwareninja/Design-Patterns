@@ -7,8 +7,8 @@ You will get:
 
 For more stuff & Help:-  
 *******************************************  
-* Github  :- https://github.com/suraj2334 *  
-* Website :- http://suraj-mundalik.info   *   
+* Github  :- https://github.com/suraj2334   
+* Website :- http://suraj-mundalik.info      
 *******************************************  
 
 <h3>Requirements</h3>  
