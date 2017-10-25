@@ -5,4 +5,3 @@
 
 <h1>Class Diagram</h1>  
 <img src="https://raw.githubusercontent.com/suraj2334/Design-Patterns/master/State%20Design%20Pattern/Defect%20Tracking%20System/Class%20Diagram.png" />  
-
