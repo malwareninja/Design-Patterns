@@ -22,6 +22,7 @@
 		</tr>  
 	</tbody>  
 </table>  
+<p>Calculate the total salary which the company should pay for 4 Software engineers, 2 project leads and 1 project manager</p>  
 <h1>Class Diagram</h1>  
 <img src="https://image.ibb.co/cbMbam/Class_Diagram.png" />  
 
