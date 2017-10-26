@@ -12,6 +12,7 @@ For more stuff & Help:-
 *******************************************  
 
 <h3>Requirements</h3>  
-1. Eclipse  
+1. Windows/Linux/Mac  
+2. Eclipse  
 
 <b><h1>Do contact if there are any queries!</h1></b>  
