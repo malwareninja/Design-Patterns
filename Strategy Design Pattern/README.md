@@ -1,9 +1,8 @@
-# State Design Pattern  
+# Strategy Design Pattern  
 
 <h1>Examples</h1>  
 <ul>  
-	<li>Defect Tracking System</li>  
-	<li>Digital Watch</li>  
-	<li>Copying Machine</li>  
+	<li>Travel Agency</li>  
+	<li>Payroll System</li>  
+	<li>Bank Payback Points</li>  
 </ul>  
-
