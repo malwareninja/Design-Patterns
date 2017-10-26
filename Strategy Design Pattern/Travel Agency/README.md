@@ -6,5 +6,5 @@
 	<li>If the booking is done between 29 days to 20 days prior to the trip start date then a discount of 15% is applicable on the trip price. If members are 4 or more then additional 4% discount is applicable.</li>  
 	<li>If the booking is done less than 20 days prior to the trip start date then no discount is applicable. But if the members are 4 or more 3% discount is applicable.</li></ul></p>  
 <h1>Class Diagram</h1>  
-<img src="https://image.ibb.co/c3KJo6/Class_Diagram.png" />  
+<img src="https://image.ibb.co/fXkr86/Class_Diagram.png" />  
 
