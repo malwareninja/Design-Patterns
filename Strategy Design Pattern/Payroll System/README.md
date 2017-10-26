@@ -1,4 +1,4 @@
-# Travel Agency  
+# Payroll System  
 
 <h1>Problem Statement</h1>  
 <p>A company has many employees. Each employee has a name, designation, basic pay and gross pay. Following is the policy of calculating the salary for the employees based on their designation :</p>  
